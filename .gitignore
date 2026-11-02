@@ -1,0 +1,12 @@
+node_modules
+dist
+release
+.DS_Store
+*.local
+*.exe
+*.traineddata
+_backup_previous_version/
+
+# Exercise media is Gym visual's property and is not part of this repository.
+# Run `npm run media` to download it into these folders (see README).
+public/exercises/
